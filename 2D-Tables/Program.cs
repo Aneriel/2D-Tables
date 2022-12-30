@@ -68,8 +68,6 @@ namespace _2D_Tables
                     Console.WriteLine();
                 }
             }
-
-            Console.ReadKey();
         }
     }
 }
